@@ -1,0 +1,17 @@
+# node
+node_modules/
+dist/
+
+# env files
+.env
+.env.*
+
+# hardhat
+artifacts/
+cache/
+
+# docker
+*.log
+
+# OS
+.DS_Store
